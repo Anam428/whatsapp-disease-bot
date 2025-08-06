@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f52a14b8-7746-40bc-858c-a1e8c11a1aed" />﻿# whatsapp-disease-bot
  # 🩺 WhatsApp Disease Predictor
 
 A machine learning-powered WhatsApp chatbot that predicts possible diseases based on user-reported symptoms.  
@@ -136,5 +135,6 @@ Edit
 
 If you want, I can also **save this file for you as `README.md`** so you can directly upload or push it to your repo.  
 Just say **"yes, save and give me the file"**.
+
 
 
